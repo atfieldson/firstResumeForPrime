@@ -12,14 +12,10 @@ background {
   margin: 40px auto 40px;
 }
   
-h1 {
+#title {
   margin: 10px;  
   padding: 10px 0;
   text-align: center;
-}
-
-h5 {
-  float: right;
 }
 
 #content-info {
