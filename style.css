@@ -43,6 +43,10 @@ h2 {
   float: right;
 }
 
+h4 {
+  border-bottom: 1px dashed;
+}
+
 .organization {
   margin-top: 0px;
   margin-bottom: 0px;
